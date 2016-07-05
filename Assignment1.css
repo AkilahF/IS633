@@ -1,0 +1,43 @@
+body
+{
+    width:600px;
+}
+
+section.section1
+{
+    visibility: hidden;
+    background-color: #FFFFCC;
+    position: absolute;
+    height: 75%;
+    width: 100%;
+    overflow: scroll;
+}
+
+section.section2
+{
+    visibility: hidden;
+    background-color: #DCDCDC;
+    position: absolute;
+    height: 75%;
+    width: 100%;
+    overflow: scroll;
+}
+
+#stonemtn
+{ 
+    height: 25%;
+    width: 25%;    
+}
+
+#oakmtn
+{  
+    height: 25%;
+    width: 25%;    
+}
+
+section
+{
+    position: inherit;
+}
+
+
