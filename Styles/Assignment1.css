@@ -1,0 +1,36 @@
+body
+{
+    width:600px;
+}
+
+section.section1
+{
+    background-color: #FFFFCC;
+    display: none ;
+}
+
+
+section.section2
+{
+    background-color: #DCDCDC;
+    display: none;
+}
+
+#stonemtn
+{ 
+    height: 75%;
+    width: 75%;    
+}
+
+#oakmtn
+{  
+    height: 75%;
+    width: 75%;    
+}
+
+section
+{
+    position: inherit;
+}
+
+
